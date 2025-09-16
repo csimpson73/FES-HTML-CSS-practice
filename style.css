@@ -151,7 +151,7 @@ footer {
     padding: 0 16px;
 }
 /* small phones, tablets, large smart phones*/
-@media (max-width 728px) {
+@media (max-width: 728px) {
 
 .row {
     flex-direction: column;
